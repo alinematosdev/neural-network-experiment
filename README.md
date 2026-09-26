@@ -2,7 +2,7 @@
 
 # Experimento com Rede Neural
 
-Este repositório contém um experimento desenvolvido para a disciplina de **Deep Learning**, com o objetivo de analisar os efeitos de diferentes funções de ativação e funções de perda em uma rede neural implementada manualmente utilizando NumPy.
+Este repositório contém um experimento desenvolvido para a disciplina de **Matemática para Ciência de Dados**, com o objetivo de analisar os efeitos de diferentes funções de ativação e funções de perda em uma rede neural implementada manualmente utilizando NumPy.
 
 O experimento utiliza o dataset **Two Moons**, disponibilizado pelo Scikit-learn, para um problema de classificação binária.
 
